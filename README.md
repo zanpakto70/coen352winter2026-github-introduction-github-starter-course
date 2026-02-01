@@ -2,6 +2,7 @@
 
 
 Anas Ouardaoui
+COEN352
 
 ## 🤓 Course overview and learning outcomes 
 
